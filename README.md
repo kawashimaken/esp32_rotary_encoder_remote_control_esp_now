@@ -31,7 +31,7 @@ change accordingly in your platformio.ini file
 
 * receiver : https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/8f424417976c2a0e3f3eb11c2d825ebfcde463da/esp_now_receiver/platformio.ini#L18
 
-* find_mac_address : 
+* find_mac_address : https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/02b02999540bb97b2a663cfd300dd3b9f7744a08/find_mac_address/platformio.ini#L15
 
 
 
