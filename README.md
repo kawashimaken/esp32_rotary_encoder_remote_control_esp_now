@@ -22,6 +22,8 @@ Take a look at description YouTube video click the picture below or click the li
 
 find them in eache platformio.ini file
 
+* https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/6e9ad883801a9addcdb2a178f3ed074569140e82/esp_now_sender/platformio.ini#L15
+
 ## run the program find_mac_address first to find your ESP32(receiver)'s MAC address.
 
 ## IMPORTANT:you need to make sure the serial port configuration is updated to yours!
