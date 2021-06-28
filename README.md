@@ -27,7 +27,11 @@ find them in eache platformio.ini file
 ## IMPORTANT:you need to make sure the serial port configuration is updated to yours!
 change accordingly in your platformio.ini file
 
-https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/8f424417976c2a0e3f3eb11c2d825ebfcde463da/esp_now_sender/platformio.ini#L18
+* sender: https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/8f424417976c2a0e3f3eb11c2d825ebfcde463da/esp_now_sender/platformio.ini#L18
+
+* receiver : https://github.com/kawashimaken/esp32_rotary_encoder_remote_control_esp_now/blob/8f424417976c2a0e3f3eb11c2d825ebfcde463da/esp_now_receiver/platformio.ini#L18
+
+* find_mac_address : 
 
 
 
