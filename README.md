@@ -4,16 +4,19 @@
 # what is this?
 
 Take a look at description YouTube video
+
 [![](https://img.youtube.com/vi/8IGkFBghzww/0.jpg)](https://www.youtube.com/watch?v=8IGkFBghzww)
 
 # folder description
 
-
+* esp_now_sender : sender platformio project
+* esp_now_receiver : receiver platformio project
+* find_mac_address : platformio project to find the MAC address for your (receiver ESP32)
 
 
 # you need to do
 
-## This is using VSCode + platformio
+## This is using VSCode + platformio, you need to be familiar with platformio
 
 ## libraries you need
 
